@@ -1,7 +1,7 @@
 import React, {Component} from "react";
 import First from "./Components/First";
 import Second from "./Components/Second";
-import Third from "./Components/third";
+import Third from "./Components/Third";
 class App extends Component {
   render(){
     return (
